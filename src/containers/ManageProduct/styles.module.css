@@ -1,0 +1,56 @@
+.manage_product {
+    padding: 40px;
+    background: none;
+    position: relative;
+    background: #fff;
+    border-radius: 5px;
+}
+.close {
+    width: 30px;
+    position: absolute;
+    right: 0;
+    top: 0px;
+    cursor: pointer;
+}
+.input_wrap {
+    margin-bottom: 15px;
+}
+.input_wrap label {
+    display: block;
+    margin: 0;
+    font-weight: bold;
+    font-style: italic;
+}
+.input_wrap input {
+    height: 30px;
+    width: 315px;
+    border-radius: 0;
+    border: 1px solid #000;
+    padding-left: 10px;
+}
+.input_wrap .error_input {
+    border: 1px solid red;
+}
+.input_wrap .error {
+    font-weight: bold;
+    color: red;
+    margin: 0;
+}
+.modal_title {
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+    margin-top: 0;
+}
+.submit_wrap {
+    text-align: center;
+}
+.submit {
+    border: none;
+    padding: 10px 25px;
+    color: #fff;
+    background: #3f51b5;
+    font-size: 18px;
+    border-radius: 5px;
+    cursor: pointer;
+}

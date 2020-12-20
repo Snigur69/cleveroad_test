@@ -1,0 +1,75 @@
+.title {
+    font-weight: bold;
+    font-size: 23px;
+    margin-bottom: 0;
+    min-height: 62px;
+}
+.product_card {
+    padding: 25px 15px;
+    border: 1px solid grey;
+    margin-bottom: 20px;
+    width: 30%;
+    position: relative;
+}
+.description {
+    font-style: italic;
+}
+.product_card img {
+    width: 100%;
+}
+.price {
+    font-weight: bold;
+    margin: 0;
+    font-size: 20px;
+}
+.discount {
+    color: green;
+}
+.old_price {
+    color: red;
+    font-size: 16px;
+    font-weight: normal;
+    text-decoration: line-through;
+}
+
+.discountEnd_wrap {
+    position: absolute;
+    right: 0;
+    top: 0;
+    background: url("../../assets/img/discount.png") no-repeat;
+    background-size: contain;
+    background-position: center;
+    height: 75px;
+    width: 48px;
+    text-align: center;
+    z-index: 2;
+}
+.discountEnd_wrap .discountEnd {
+    font-weight: bold;
+    color: #fff;
+    font-size: 26px;
+    margin: 13px 0 0 0;
+}
+.product_controls {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 15px;
+}
+.edit {
+    border: none;
+    padding: 10px 25px;
+    color: #fff;
+    background: #3f51b5;
+    font-size: 18px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.remove {
+    border: none;
+    padding: 10px 25px;
+    color: #fff;
+    background: #f50057;
+    font-size: 18px;
+    border-radius: 5px;
+    cursor: pointer;
+}

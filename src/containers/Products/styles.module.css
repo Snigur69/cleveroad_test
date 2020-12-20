@@ -1,0 +1,11 @@
+.category_page {
+    text-align: center;
+    max-width: 1170px;
+    padding: 0 15px;
+    margin: 120px auto;
+}
+.products_wrap {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
