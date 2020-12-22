@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/cleveroad_test/static/css/main.31b8688d.chunk.css",
-    "main.js": "/cleveroad_test/static/js/main.cc5160fc.chunk.js",
-    "main.js.map": "/cleveroad_test/static/js/main.cc5160fc.chunk.js.map",
+    "main.js": "/cleveroad_test/static/js/main.f87af36e.chunk.js",
+    "main.js.map": "/cleveroad_test/static/js/main.f87af36e.chunk.js.map",
     "runtime-main.js": "/cleveroad_test/static/js/runtime-main.30f9afee.js",
     "runtime-main.js.map": "/cleveroad_test/static/js/runtime-main.30f9afee.js.map",
-    "static/js/2.9fb459ac.chunk.js": "/cleveroad_test/static/js/2.9fb459ac.chunk.js",
-    "static/js/2.9fb459ac.chunk.js.map": "/cleveroad_test/static/js/2.9fb459ac.chunk.js.map",
+    "static/js/2.43507092.chunk.js": "/cleveroad_test/static/js/2.43507092.chunk.js",
+    "static/js/2.43507092.chunk.js.map": "/cleveroad_test/static/js/2.43507092.chunk.js.map",
     "static/js/3.18d6f93d.chunk.js": "/cleveroad_test/static/js/3.18d6f93d.chunk.js",
     "static/js/3.18d6f93d.chunk.js.map": "/cleveroad_test/static/js/3.18d6f93d.chunk.js.map",
     "index.html": "/cleveroad_test/index.html",
     "static/css/main.31b8688d.chunk.css.map": "/cleveroad_test/static/css/main.31b8688d.chunk.css.map",
-    "static/js/2.9fb459ac.chunk.js.LICENSE.txt": "/cleveroad_test/static/js/2.9fb459ac.chunk.js.LICENSE.txt",
+    "static/js/2.43507092.chunk.js.LICENSE.txt": "/cleveroad_test/static/js/2.43507092.chunk.js.LICENSE.txt",
     "static/media/styles.module.css": "/cleveroad_test/static/media/discount.48796843.png"
   },
   "entrypoints": [
     "static/js/runtime-main.30f9afee.js",
-    "static/js/2.9fb459ac.chunk.js",
+    "static/js/2.43507092.chunk.js",
     "static/css/main.31b8688d.chunk.css",
-    "static/js/main.cc5160fc.chunk.js"
+    "static/js/main.f87af36e.chunk.js"
   ]
 }
