@@ -54,3 +54,31 @@
     border-radius: 5px;
     cursor: pointer;
 }
+.submit:disabled {
+    background: grey;
+}
+.normal {
+    font-style: italic;
+    margin: 0;
+}
+.success {
+    font-style: italic;
+    color: green;
+    font-weight: bold;
+    margin: 0;
+}
+#hidden_image {
+    /* display: none; */
+    height: 0;
+    width: 0;
+    opacity: 0;
+    margin: 0;
+    position: absolute;
+}
+#visible_input {
+    border: none;
+    display: none;
+}
+.file_wrap {
+    width: fit-content;
+}

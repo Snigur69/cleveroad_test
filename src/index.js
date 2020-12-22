@@ -7,7 +7,7 @@ import {Provider} from "react-redux";
 import {store} from "./store/rootStore";
 import {firebaseInit} from "./services/firebase";
 
-firebaseInit();
+// firebaseInit();
 
 ReactDOM.render(
   <React.StrictMode>
